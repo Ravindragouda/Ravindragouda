@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi, I’m @Ravindra Gouda
 
-<!--
-**Ravindragouda/Ravindragouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m interested in software development and Java programming.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning full stack Java development, with a focus on Spring, Spring Boot, Hibernate and React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💞️ I’m looking to collaborate on open-source projects related to Java development.
+
+📫 You can reach me via email at ravindragouda444@gmail.com
+
+😄 Pronouns: He/Him
+
+### Skills:
+- Java
+- Spring Framework
+- Spring Boot
+- Hibernate
+- MySQL
+- HTML/CSS
+- JavaScript
+- React
+
+### Interests:
+- Coding
+- Problem Solving
+- Exploring new technologies
+
+### Hobbies:
+- Cricket
+- Travelling
